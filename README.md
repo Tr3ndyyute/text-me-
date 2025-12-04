@@ -1,28 +1,33 @@
 <div align="center">
 
-# 👋 Hey There  
-### **“You scanned me… guess we’re already connected 😏”**
+# 👋 Hey You  
+### **“You scanned me… I like people who take initiative 😏”**
 
 ---
 
-## 🌐 Welcome to My Corner of GitHub
+## 💫 Welcome to My Space
 
-Since you were bold enough to scan that code,  
-you deserve something a little more interesting than just code.
+You didn’t end up here by accident.
 
-### Here’s what you’ll find:
-- 💻 Cool projects & experiments  
-- 🤝 Collabs I’m open to  
-- 😌 And maybe… someone you scanned for a reason  
+Maybe it was curiosity.  
+Maybe it was the vibe.  
+Maybe you just wanted to see what kind of guy hides behind a QR code.
+
+Either way… I’m not disappointed.
 
 ---
 
-## 🔥 About Me
+## 😌 What You’ll Find Here
+- 💻 A little code  
+- 🎨 A little creativity  
+- 😉 And maybe a little something that made you smile
+
+---
+
+## 🔥 A Little About Me
 ```bash
-
-
-If you’ve made it this far…
-we might need to talk again.
-My DMs are open.
-
+echo "I build things… and I flirt better than my code compiles."
+If you scanned me on purpose…
+you should definitely say hi.
+I won’t tell anyone — unless you want me to. 😉
 
