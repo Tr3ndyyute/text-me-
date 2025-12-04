@@ -20,3 +20,10 @@ you deserve something a little more interesting than just code.
 ## 🔥 About Me
 ```bash
 echo "Curious. Creative. Always building."
+✨ Outro
+
+If you’ve made it this far…
+we might need to talk again.
+My DMs are open.
+
+</div>
