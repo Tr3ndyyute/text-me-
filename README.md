@@ -26,7 +26,7 @@ Either way… I’m not disappointed.
 
 ## 🔥 A Little About Me
 ```bash
-echo "I build things… and I flirt better than my code compiles."
+I build things… and I flirt better than my code compiles.
 If you scanned me on purpose…
 you should definitely say hi.
 I won’t tell anyone — unless you want me to. 😉
